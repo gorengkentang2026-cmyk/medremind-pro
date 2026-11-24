@@ -8,7 +8,7 @@ source.include_exts = py,png,jpg,kv,atlas,json
 source.main = app_mobile.py
 
 version = 1.0.0
-requirements = python3==3.11.8,hostpython3==3.11.8,kivy,plyer
+requirements = python3,kivy,plyer
 
 orientation = portrait
 fullscreen = 0
