@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nama": "vitamin a",
+        "jam": "07:00",
+        "sesi_pagi_aktif": true,
+        "jam_pagi": "07:00",
+        "sesi_siang_aktif": true,
+        "jam_siang": "12:48",
+        "sesi_sore_aktif": true,
+        "jam_sore": "19:00",
+        "hari_tipe": "Setiap Hari",
+        "hari_aktif": [
+            "Senin",
+            "Selasa",
+            "Rabu",
+            "Kamis",
+            "Jumat",
+            "Sabtu",
+            "Minggu"
+        ],
+        "dosis": "1 Tablet",
+        "stok": 30,
+        "satuan": "Tablet",
+        "kurangi_per_minum": 1,
+        "aturan": "Sebelum Makan",
+        "catatan": "b",
+        "terakhir_minum": "",
+        "terakhir_minum_sesi": {},
+        "user_id": 1
+    }
+]
