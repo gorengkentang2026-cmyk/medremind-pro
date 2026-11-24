@@ -18,6 +18,7 @@ android.api = 33
 android.minapi = 21
 android.ndk = 25b
 android.archs = arm64-v8a
+p4a.branch = v2024.01.21
 
 android.allow_backup = True
 android.icon = %(source.dir)s/icon.png
